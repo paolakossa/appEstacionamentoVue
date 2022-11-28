@@ -1,0 +1,31 @@
+{
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Finalizado",
+      "status": "Solicitado"
+    }
+  ],
+  "carros": [
+    {
+      "nome": "Paola",
+      "nomeCarro": "Creta",
+      "placaCarro": "GHT-0132",
+      "hora": "19:00",
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Danilo",
+      "nomeCarro": "Gol",
+      "placaCarro": "OPS-0213",
+      "hora": "16:00",
+      "status": "Finalizado",
+      "id": 2
+    }
+  ]
+}
